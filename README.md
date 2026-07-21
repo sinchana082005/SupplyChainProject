@@ -167,7 +167,7 @@ SupplyChainProject
 1. Clone Repository
 
 ```bash
-git clone https://github.com/sinchana082005/SupplyChainProject.git
+git clone https://github.com/sinchana082005/Supply-Chain-Logistics-optimization.git
 ```
 
 2. Install Dependencies
