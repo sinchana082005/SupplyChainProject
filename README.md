@@ -238,10 +238,8 @@ DataCo SMART Supply Chain Dataset
 
 **Sinchana Naik**
 
-Computer Science Engineering Student
 
 **GitHub:** https://github.com/sinchana082005
 
 ---
 
-⭐ If you found this project useful, please consider giving it a star!
